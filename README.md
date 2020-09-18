@@ -1,7 +1,7 @@
 ### Hi there, I'm abd elatif
 
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Celibate, Developer 
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -9,3 +9,4 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rehamniaabdelatif)](https://github.com/anuraghazra/github-readme-stats)
