@@ -9,7 +9,5 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rehamniaabdelatif)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rehamniaabdelatif&hide=contribs,prs)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehamniaabdelatif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
